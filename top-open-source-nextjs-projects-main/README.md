@@ -1,4 +1,4 @@
-# Top Open Source Next.js Projects - List of Open Source Next.js Projects
+ Next.js Projects - List of Open Source Next.js Projects
 
 With the repo, I will list there top of open source Next.js Projects
 
